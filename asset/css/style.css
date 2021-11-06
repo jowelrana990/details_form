@@ -1,0 +1,19 @@
+.custom-container{
+    padding: 40px;
+    background-color: aqua;
+    margin-top: 80px;
+}
+.applicationTitle{
+    font-weight: bold;
+    text-transform:  uppercase;
+    margin-bottom: 30px;
+}
+.content {
+    background-color: #0c627cbf;
+    color: #fff;
+    padding: 11px 14px;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 8px;
+}
